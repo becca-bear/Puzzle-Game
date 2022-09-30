@@ -1,3 +1,3 @@
 # Puzzle-Game
 
-![puzzle-game](https://user-images.githubusercontent.com/66655353/193347378-2e089843-f4cf-4309-afd0-df7c60ff0577.png)
+![puzzle-game](https://user-images.githubusercontent.com/66655353/193347660-b820e16b-0f14-4f31-a8cc-aef9b4faa0eb.png)
